@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ciudades>
+    <ciudad nombre="Valladolid">
+        <habitantes>298000</habitantes>
+        <alcalde partido="PSOE">Oscar Puente</alcalde>
+        <gentilicio>Vallisoletano</gentilicio>
+        <comunidadAutonoma>Castilla y Leon</comunidadAutonoma>
+    </ciudad>
+    <ciudad nombre="Santander">
+        <habitantes>173000</habitantes>
+        <alcalde partido="OO">Laura Perez</alcalde>
+        <gentilicio>santanderino</gentilicio>
+        <comunidadAutonoma>Cantabria</comunidadAutonoma>
+    </ciudad>
+</ciudades>
